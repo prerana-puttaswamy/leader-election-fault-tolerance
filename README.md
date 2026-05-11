@@ -38,10 +38,6 @@ This project simulates and evaluates leader election algorithms under realistic 
 * Simulation Systems
 * Algorithms & Data Structures
 
-## Paper
-
-[Download Paper](./fault-leader-election.pdf)
-
 ## Author
 
 Prerana Puttaswamy
